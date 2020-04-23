@@ -1,13 +1,13 @@
 {
   "name": "task-mule-cli",
-  "version": "0.0.9",
-  "description": "Command line runner for task-mule",
+  "version": "2.0.0",
+  "description": "for build process with complex dependency chains.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Real-Serious-Games/task-mule-cli.git"
+    "url": "git+https://github.com/task-mule/task-mule-cli.git"
   },
   "keywords": [
     "task",
@@ -16,12 +16,12 @@
     "grunt",
     "gulp"
   ],
-  "author": "ashley.davis@realseriousgames.com",
+  "author": "ashley@codecapers.com.au",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Real-Serious-Games/task-mule-cli/issues"
+    "url": "https://github.com/task-mule/task-mule-cli/issues"
   },
-  "homepage": "https://github.com/Real-Serious-Games/task-mule-cli#readme",
+  "homepage": "https://github.com/task-mule/task-mule-cli#readme",
   "bin": {
     "task-mule": "./bin/task-mule-cli"
   },
